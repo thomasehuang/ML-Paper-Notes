@@ -5,3 +5,4 @@ Inspired by [Denny Britz](https://github.com/dennybritz/deeplearning-papernotes)
 - [Long Text Generation via Adversarial Training with Leaked Information](SequenceGeneration/LeakGAN.md) \[[arxiv](https://arxiv.org/abs/1709.08624)\]
 - [DP-GAN: Diversity-Promoting Generative Adversarial Network for Generating Informative and Diversified Text](SequenceGeneration/DP-GAN.md) \[[arxiv](https://arxiv.org/abs/1802.01345)\]
 - [Attention Is All You Need](transformer.md) \[[arxiv](https://arxiv.org/abs/1706.03762)\]
+- [Non-local Neural Networks](nonlocal-net.md) \[[arxiv](https://arxiv.org/abs/1711.07971)\]
