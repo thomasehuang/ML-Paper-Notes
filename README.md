@@ -7,3 +7,4 @@ Inspired by [Denny Britz](https://github.com/dennybritz/deeplearning-papernotes)
 - [Attention Is All You Need](transformer.md) \[[arxiv](https://arxiv.org/abs/1706.03762)\]\[[code](https://github.com/tensorflow/tensor2tensor/blob/master/tensor2tensor/models/transformer.py)\]
 - [Non-local Neural Networks](nonlocal-net.md) \[[arxiv](https://arxiv.org/abs/1711.07971)\]\[[code](https://github.com/facebookresearch/video-nonlocal-net)\]
 - [Relational recurrent neural networks](relational-rnn.md) \[[arxiv](https://arxiv.org/abs/1806.01822)\]\[[code](https://github.com/deepmind/sonnet/blob/master/sonnet/python/modules/relational_memory.py)\]
+- [Im2Pano3D: Extrapolating 360 Structure and Semantics Beyond the Field of View](im2pano3d.md) \[[arxiv](https://arxiv.org/abs/1712.04569)\]\[[code](https://github.com/shurans/im2pano3d)\]\[[website](http://im2pano3d.cs.princeton.edu/)\]
