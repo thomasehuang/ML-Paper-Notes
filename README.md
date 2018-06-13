@@ -4,6 +4,7 @@ Week 2, (06/11/2018):
 - [Relational recurrent neural networks](relational-rnn.md) \[[arxiv](https://arxiv.org/abs/1806.01822)\]\[[code](https://github.com/deepmind/sonnet/blob/master/sonnet/python/modules/relational_memory.py)\]
 - [Im2Pano3D: Extrapolating 360 Structure and Semantics Beyond the Field of View](im2pano3d.md) \[[arxiv](https://arxiv.org/abs/1712.04569)\]\[[code](https://github.com/shurans/im2pano3d)\]\[[website](http://im2pano3d.cs.princeton.edu/)\]
 - [GAGAN: Geometry-Aware Generative Adversarial Networks](gagan.md) \[[arxiv](https://arxiv.org/abs/1712.00684)\]
+- [Neural Scene De-rendering](scene-derendering.md) \[[paper](http://nsd.csail.mit.edu/papers/nsd_cvpr.pdf)\]\[[website](http://nsd.csail.mit.edu/)\]
 
 Week 1, (06/04/2018):
 - [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](SequenceGeneration/SeqGAN.md) \[[arxiv](https://arxiv.org/abs/1609.05473)\]\[[code](https://github.com/LantaoYu/SeqGAN)\]
