@@ -1,5 +1,8 @@
 Inspired by [Denny Britz](https://github.com/dennybritz/deeplearning-papernotes), I've decided to start keeping track of papers I'm reading for documentation purposes and as a way to force myself to read more. Since it is a journal, these will be ordered by the time I read them.
 
+Week 3, (06/18/2018):
+- [Decoupled Neural Interfaces using Synthetic Gradients](synthetic-gradients.md) \[[arxiv](https://arxiv.org/abs/1608.05343)\]\[[blog](https://deepmind.com/blog/decoupled-neural-networks-using-synthetic-gradients/)\]
+
 Week 2, (06/11/2018):
 - [Relational recurrent neural networks](relational-rnn.md) \[[arxiv](https://arxiv.org/abs/1806.01822)\]\[[code](https://github.com/deepmind/sonnet/blob/master/sonnet/python/modules/relational_memory.py)\]
 - [Im2Pano3D: Extrapolating 360 Structure and Semantics Beyond the Field of View](im2pano3d.md) \[[arxiv](https://arxiv.org/abs/1712.04569)\]\[[code](https://github.com/shurans/im2pano3d)\]\[[website](http://im2pano3d.cs.princeton.edu/)\]
