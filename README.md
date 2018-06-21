@@ -3,6 +3,7 @@ Inspired by [Denny Britz](https://github.com/dennybritz/deeplearning-papernotes)
 Week 3, (06/18/2018):
 - [Decoupled Neural Interfaces using Synthetic Gradients](synthetic-gradients.md) \[[arxiv](https://arxiv.org/abs/1608.05343)\]\[[blog](https://deepmind.com/blog/decoupled-neural-networks-using-synthetic-gradients/)\]
 - [Understanding Synthetic Gradients and Decoupled Neural Interfaces](understanding-synthetic-gradients.md) \[[arxiv](https://arxiv.org/abs/1703.00522)\]
+- [Nested LSTMs](nested-LSTMs.md) \[[arxiv](https://arxiv.org/abs/1801.10308)\]
 
 Week 2, (06/11/2018):
 - [Relational recurrent neural networks](relational-rnn.md) \[[arxiv](https://arxiv.org/abs/1806.01822)\]\[[code](https://github.com/deepmind/sonnet/blob/master/sonnet/python/modules/relational_memory.py)\]
