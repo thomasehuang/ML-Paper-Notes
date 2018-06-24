@@ -5,6 +5,7 @@ Week 3, (06/18/2018):
 - [Understanding Synthetic Gradients and Decoupled Neural Interfaces](understanding-synthetic-gradients.md) \[[arxiv](https://arxiv.org/abs/1703.00522)\]
 - [Nested LSTMs](nested-LSTMs.md) \[[arxiv](https://arxiv.org/abs/1801.10308)\]
 - [State-of-the-art Speech Recognition With Sequence-to-Sequence Models](LAS-v2.md) \[[arxiv](https://arxiv.org/abs/1712.01769)\]
+- [WaveNet: A Generative Model for Raw Audio](wavenet.md) \[[arxiv](https://arxiv.org/abs/1609.03499)\]\[[blog](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)\]
 
 Week 2, (06/11/2018):
 - [Relational recurrent neural networks](relational-rnn.md) \[[arxiv](https://arxiv.org/abs/1806.01822)\]\[[code](https://github.com/deepmind/sonnet/blob/master/sonnet/python/modules/relational_memory.py)\]
