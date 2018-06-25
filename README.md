@@ -1,5 +1,8 @@
 Inspired by [Denny Britz](https://github.com/dennybritz/deeplearning-papernotes), I've decided to start keeping track of papers I'm reading for documentation purposes and as a way to force myself to read more. Since it is a journal, these will be ordered by the time I read them.
 
+Week 4, (06/25/2018):
+- [Peephole: Predicting Network Performance Before Training](peephole.md) \[[arxiv](https://arxiv.org/abs/1712.03351)\]
+
 Week 3, (06/18/2018):
 - [Decoupled Neural Interfaces using Synthetic Gradients](synthetic-gradients.md) \[[arxiv](https://arxiv.org/abs/1608.05343)\]\[[blog](https://deepmind.com/blog/decoupled-neural-networks-using-synthetic-gradients/)\]
 - [Understanding Synthetic Gradients and Decoupled Neural Interfaces](understanding-synthetic-gradients.md) \[[arxiv](https://arxiv.org/abs/1703.00522)\]
