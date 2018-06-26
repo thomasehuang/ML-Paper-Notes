@@ -2,12 +2,12 @@ Inspired by [Denny Britz](https://github.com/dennybritz/deeplearning-papernotes)
 
 Week 4, (06/25/2018):
 - [Peephole: Predicting Network Performance Before Training](peephole.md) \[[arxiv](https://arxiv.org/abs/1712.03351)\]
-- [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](CycleGAN.md) \[[arxiv](https://arxiv.org/abs/1703.10593)\]\[[code](https://github.com/junyanz/CycleGAN)\]\[[website](https://junyanz.github.io/CycleGAN/)\]
+- [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](CycleGAN.md) [ICCV 2017]\[[arxiv](https://arxiv.org/abs/1703.10593)\]\[[code](https://github.com/junyanz/CycleGAN)\]\[[website](https://junyanz.github.io/CycleGAN/)\]
 
 Week 3, (06/18/2018):
 - [Decoupled Neural Interfaces using Synthetic Gradients](synthetic-gradients.md) \[[arxiv](https://arxiv.org/abs/1608.05343)\]\[[blog](https://deepmind.com/blog/decoupled-neural-networks-using-synthetic-gradients/)\]
 - [Understanding Synthetic Gradients and Decoupled Neural Interfaces](understanding-synthetic-gradients.md) \[[arxiv](https://arxiv.org/abs/1703.00522)\]
-- [Nested LSTMs](nested-LSTMs.md) \[[arxiv](https://arxiv.org/abs/1801.10308)\]
+- [Nested LSTMs](nested-LSTMs.md) [ACML 2017]\[[arxiv](https://arxiv.org/abs/1801.10308)\]
 - [State-of-the-art Speech Recognition With Sequence-to-Sequence Models](LAS-v2.md) \[[arxiv](https://arxiv.org/abs/1712.01769)\]
 - [WaveNet: A Generative Model for Raw Audio](wavenet.md) \[[arxiv](https://arxiv.org/abs/1609.03499)\]\[[blog](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)\]
 
@@ -15,12 +15,12 @@ Week 2, (06/11/2018):
 - [Relational recurrent neural networks](relational-rnn.md) \[[arxiv](https://arxiv.org/abs/1806.01822)\]\[[code](https://github.com/deepmind/sonnet/blob/master/sonnet/python/modules/relational_memory.py)\]
 - [Im2Pano3D: Extrapolating 360 Structure and Semantics Beyond the Field of View](im2pano3d.md) \[[arxiv](https://arxiv.org/abs/1712.04569)\]\[[code](https://github.com/shurans/im2pano3d)\]\[[website](http://im2pano3d.cs.princeton.edu/)\]
 - [GAGAN: Geometry-Aware Generative Adversarial Networks](gagan.md) \[[arxiv](https://arxiv.org/abs/1712.00684)\]
-- [Neural Scene De-rendering](scene-derendering.md) \[[paper](http://nsd.csail.mit.edu/papers/nsd_cvpr.pdf)\]\[[website](http://nsd.csail.mit.edu/)\]
-- [Toward Controlled Generation of Text](SequenceGeneration/controlled-text-generation.md) \[[arxiv](https://arxiv.org/abs/1703.00955)\]
+- [Neural Scene De-rendering](scene-derendering.md) [CVPR 2017]\[[paper](http://nsd.csail.mit.edu/papers/nsd_cvpr.pdf)\]\[[website](http://nsd.csail.mit.edu/)\]
+- [Toward Controlled Generation of Text](SequenceGeneration/controlled-text-generation.md) [ICML 2017]\[[arxiv](https://arxiv.org/abs/1703.00955)\]
 
 Week 1, (06/04/2018):
-- [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](SequenceGeneration/SeqGAN.md) \[[arxiv](https://arxiv.org/abs/1609.05473)\]\[[code](https://github.com/LantaoYu/SeqGAN)\]
-- [Long Text Generation via Adversarial Training with Leaked Information](SequenceGeneration/LeakGAN.md) \[[arxiv](https://arxiv.org/abs/1709.08624)\]\[[code](https://github.com/CR-Gjx/LeakGAN)\]
+- [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](SequenceGeneration/SeqGAN.md) [AAAI 2017]\[[arxiv](https://arxiv.org/abs/1609.05473)\]\[[code](https://github.com/LantaoYu/SeqGAN)\]
+- [Long Text Generation via Adversarial Training with Leaked Information](SequenceGeneration/LeakGAN.md) [AAAI 2018]\[[arxiv](https://arxiv.org/abs/1709.08624)\]\[[code](https://github.com/CR-Gjx/LeakGAN)\]
 - [DP-GAN: Diversity-Promoting Generative Adversarial Network for Generating Informative and Diversified Text](SequenceGeneration/DP-GAN.md) \[[arxiv](https://arxiv.org/abs/1802.01345)\]\[[code](https://github.com/lancopku/DPGAN)\]
-- [Attention Is All You Need](transformer.md) \[[arxiv](https://arxiv.org/abs/1706.03762)\]\[[code](https://github.com/tensorflow/tensor2tensor/blob/master/tensor2tensor/models/transformer.py)\]
-- [Non-local Neural Networks](nonlocal-net.md) \[[arxiv](https://arxiv.org/abs/1711.07971)\]\[[code](https://github.com/facebookresearch/video-nonlocal-net)\]
+- [Attention Is All You Need](transformer.md) [NIPS 2017]\[[arxiv](https://arxiv.org/abs/1706.03762)\]\[[code](https://github.com/tensorflow/tensor2tensor/blob/master/tensor2tensor/models/transformer.py)\]
+- [Non-local Neural Networks](nonlocal-net.md) [CVPR 2018]\[[arxiv](https://arxiv.org/abs/1711.07971)\]\[[code](https://github.com/facebookresearch/video-nonlocal-net)\]
