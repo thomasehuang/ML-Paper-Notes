@@ -2,6 +2,7 @@ Inspired by [Denny Britz](https://github.com/dennybritz/deeplearning-papernotes)
 
 Week 4, (06/25/2018):
 - [Peephole: Predicting Network Performance Before Training](peephole.md) \[[arxiv](https://arxiv.org/abs/1712.03351)\]
+- [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](CycleGAN.md) \[[arxiv](https://arxiv.org/abs/1703.10593)\]\[[code](https://github.com/junyanz/CycleGAN)\]\[[website](https://junyanz.github.io/CycleGAN/)\]
 
 Week 3, (06/18/2018):
 - [Decoupled Neural Interfaces using Synthetic Gradients](synthetic-gradients.md) \[[arxiv](https://arxiv.org/abs/1608.05343)\]\[[blog](https://deepmind.com/blog/decoupled-neural-networks-using-synthetic-gradients/)\]
