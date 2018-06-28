@@ -28,4 +28,4 @@ Decoupling neural networks by replacing backpropagated error gradients with synt
 4. It seems like the architecture of the DNI itself is not explicity explored.
 5. It would be good to see a comparison of runtimes between networks using DNIs and without.
 6. Overall, I think this is very exciting, especially for increasing a model's time horizon. I look forward to other works that utilize DNIs.
-7. Follow-up paper: [Understanding Synthetic Gradients and Decoupled Neural Interfaces](https://arxiv.org/abs/1703.00522).
+7. Follow-up paper: [Understanding Synthetic Gradients and Decoupled Neural Interfaces](https://arxiv.org/abs/1703.00522) \[[notes](understanding-synthetic-gradients.md)\].
