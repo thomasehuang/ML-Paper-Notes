@@ -3,14 +3,14 @@ Inspired by [Denny Britz](https://github.com/dennybritz/deeplearning-papernotes)
 Week 4, (06/25/2018):
 - [Peephole: Predicting Network Performance Before Training](peephole.md) \[[arxiv](https://arxiv.org/abs/1712.03351)\]
 - [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](CycleGAN.md) [ICCV 2017]\[[arxiv](https://arxiv.org/abs/1703.10593)\]\[[code](https://github.com/junyanz/CycleGAN)\]\[[website](https://junyanz.github.io/CycleGAN/)\]
-- [Tacotron: Towards End-to-End Speech Synthesis](Tacotron.md) [Interspeech 2017]\[[arxiv](https://arxiv.org/abs/1703.10135)\]\[[samples](https://google.github.io/tacotron)\]
+- [Tacotron: Towards End-to-End Speech Synthesis](SpeechSynthesis/Tacotron.md) [Interspeech 2017]\[[arxiv](https://arxiv.org/abs/1703.10135)\]\[[samples](https://google.github.io/tacotron)\]
 
 Week 3, (06/18/2018):
 - [Decoupled Neural Interfaces using Synthetic Gradients](synthetic-gradients.md) \[[arxiv](https://arxiv.org/abs/1608.05343)\]\[[blog](https://deepmind.com/blog/decoupled-neural-networks-using-synthetic-gradients/)\]
 - [Understanding Synthetic Gradients and Decoupled Neural Interfaces](understanding-synthetic-gradients.md) \[[arxiv](https://arxiv.org/abs/1703.00522)\]
 - [Nested LSTMs](nested-LSTMs.md) [ACML 2017]\[[arxiv](https://arxiv.org/abs/1801.10308)\]
 - [State-of-the-art Speech Recognition With Sequence-to-Sequence Models](LAS-v2.md) \[[arxiv](https://arxiv.org/abs/1712.01769)\]
-- [WaveNet: A Generative Model for Raw Audio](wavenet.md) \[[arxiv](https://arxiv.org/abs/1609.03499)\]\[[blog](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)\]
+- [WaveNet: A Generative Model for Raw Audio](SpeechSynthesis/wavenet.md) \[[arxiv](https://arxiv.org/abs/1609.03499)\]\[[blog](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)\]
 
 Week 2, (06/11/2018):
 - [Relational recurrent neural networks](relational-rnn.md) \[[arxiv](https://arxiv.org/abs/1806.01822)\]\[[code](https://github.com/deepmind/sonnet/blob/master/sonnet/python/modules/relational_memory.py)\]
