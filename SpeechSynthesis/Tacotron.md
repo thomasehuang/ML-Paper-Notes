@@ -27,4 +27,4 @@ An end-to-end generative text-to-speech model for synthesizing speech directly f
 2. Comparison to WaveNet:
    - Tacotron is an end-to-end model, while WaveNet is not.
    - Tacotron is faster during inference and convergence speed, due to WaveNet's sample-level autoregressive nature.
-3. Follow-up paper: [Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions](https://arxiv.org/abs/1712.05884).
+3. Follow-up paper: [Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions](Tacotron2.md).
