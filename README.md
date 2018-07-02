@@ -5,6 +5,7 @@ Week 4, (06/25/2018):
 - [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](CycleGAN.md) [ICCV 2017]\[[arxiv](https://arxiv.org/abs/1703.10593)\]\[[code](https://github.com/junyanz/CycleGAN)\]\[[website](https://junyanz.github.io/CycleGAN/)\]
 - [Tacotron: Towards End-to-End Speech Synthesis](SpeechSynthesis/Tacotron.md) [Interspeech 2017]\[[arxiv](https://arxiv.org/abs/1703.10135)\]\[[samples](https://google.github.io/tacotron)\]
 - [Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions](SpeechSynthesis/Tacotron2.md) [ICASSP 2018]\[[arxiv](https://arxiv.org/abs/1712.05884)\]\[[blog](https://ai.googleblog.com/2017/12/tacotron-2-generating-human-like-speech.html)\]\[[samples](https://google.github.io/tacotron/)\]
+- [WESPE: Weakly Supervised Photo Enhancer for Digital Cameras](WESPE.md) \[[arxiv](https://arxiv.org/abs/1709.01118)\]\[[website](http://www.vision.ee.ethz.ch/~ihnatova/wespe.html)\]\[[demo](http://phancer.com/)\]
 
 Week 3, (06/18/2018):
 - [Decoupled Neural Interfaces using Synthetic Gradients](synthetic-gradients.md) \[[arxiv](https://arxiv.org/abs/1608.05343)\]\[[blog](https://deepmind.com/blog/decoupled-neural-networks-using-synthetic-gradients/)\]
