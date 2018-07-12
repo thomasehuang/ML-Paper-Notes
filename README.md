@@ -2,6 +2,7 @@ Inspired by [Denny Britz](https://github.com/dennybritz/deeplearning-papernotes)
 
 Week 6, (07/09/2018):
 - [LayoutNet: Reconstructing the 3D Room Layout from a Single RGB Image](LayoutNet.md) [CVPR 2018]\[[arxiv](https://arxiv.org/abs/1803.08999)\]\[[code](https://github.com/zouchuhang/LayoutNet)\]
+- [Training Deep Networks with Synthetic Data: Bridging the Reality Gap by Domain Randomization](synthetic_DR.md) [CVPR 2018]\[[arxiv](https://arxiv.org/abs/1804.06516)\]
 
 Week 5, (07/02/2018):
 - _Break_
