@@ -1,5 +1,8 @@
 Inspired by [Denny Britz](https://github.com/dennybritz/deeplearning-papernotes), I've decided to start keeping track of papers I'm reading for documentation purposes and as a way to force myself to read more. Since it is a journal, these will be ordered by the time I read them.
 
+Week 7, (07/16/2018):
+- [Generative Image Inpainting with Contextual Attention](contextual_attention.md) [CVPR 2018]\[[arxiv](https://arxiv.org/abs/1801.07892)\]\[[code](https://github.com/JiahuiYu/generative_inpainting)\]\[[demo](http://jiahuiyu.com/deepfill/)\]
+
 Week 6, (07/09/2018):
 - [LayoutNet: Reconstructing the 3D Room Layout from a Single RGB Image](LayoutNet.md) [CVPR 2018]\[[arxiv](https://arxiv.org/abs/1803.08999)\]\[[code](https://github.com/zouchuhang/LayoutNet)\]
 - [Training Deep Networks with Synthetic Data: Bridging the Reality Gap by Domain Randomization](synthetic_DR.md) [CVPR 2018]\[[arxiv](https://arxiv.org/abs/1804.06516)\]
