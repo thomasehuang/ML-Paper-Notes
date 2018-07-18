@@ -4,6 +4,7 @@ Week 7, (07/16/2018):
 - [
 Semi-parametric Image Synthesis](SIMS.md) [CVPR 2018]\[[arxiv](https://arxiv.org/abs/1804.10992)\]\[[code](https://github.com/xjqicuhk/SIMS)\]
 - [Generative Image Inpainting with Contextual Attention](contextual_attention.md) [CVPR 2018]\[[arxiv](https://arxiv.org/abs/1801.07892)\]\[[code](https://github.com/JiahuiYu/generative_inpainting)\]\[[demo](http://jiahuiyu.com/deepfill/)\]
+- [Neural Discrete Representation Learning](VQ-VAE.md) [NIPS 2017]\[[arxiv](https://arxiv.org/abs/1711.00937)\]\[[samples](https://avdnoord.github.io/homepage/vqvae/)\]
 
 Week 6, (07/09/2018):
 - [LayoutNet: Reconstructing the 3D Room Layout from a Single RGB Image](LayoutNet.md) [CVPR 2018]\[[arxiv](https://arxiv.org/abs/1803.08999)\]\[[code](https://github.com/zouchuhang/LayoutNet)\]
