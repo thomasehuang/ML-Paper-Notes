@@ -1,5 +1,10 @@
 Inspired by [Denny Britz](https://github.com/dennybritz/deeplearning-papernotes), I've decided to start keeping track of papers I'm reading for documentation purposes and as a way to force myself to read more. Since it is a journal, these will be ordered by the time I read them.
 
+Week 9, (07/30/2018):
+- [Learning to Segment via Cut-and-Paste](cut_and_paste.md) \[[arxiv](https://arxiv.org/abs/1803.06414)\]
+
+Week 8, (07/23/2018):
+
 Week 7, (07/16/2018):
 - [Semi-parametric Image Synthesis](SIMS.md) [CVPR 2018]\[[arxiv](https://arxiv.org/abs/1804.10992)\]\[[code](https://github.com/xjqicuhk/SIMS)\]
 - [Generative Image Inpainting with Contextual Attention](contextual_attention.md) [CVPR 2018]\[[arxiv](https://arxiv.org/abs/1801.07892)\]\[[code](https://github.com/JiahuiYu/generative_inpainting)\]\[[demo](http://jiahuiyu.com/deepfill/)\]
