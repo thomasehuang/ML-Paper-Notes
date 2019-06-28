@@ -20,7 +20,7 @@ Novel meta-learning based model, composed of a meta-model and a base detection m
    - An additional mask channel is added to let the meta-model know what the target class is.
    - For training the meta-model, binary cross entropy is tried, but found that it results in a model that outputs redundant detections. This is probably because BCE strives to produce balanced positive and negative predictions. Instead, a cross-entropy loss over the calibrbated classification scores is used.
    - Trained in two phases: first learning representations on base classes and then fine-tuning for adapting to novel classes. The feature reweighting module is trained in both phases to meta-learn how to reweight the features for both base and novel classes.
-   - After few-shot fine-tuning, the weights for a target class is set to the average weights predicted by the meta-model taking the k-shot samples as input. The meta-model can be completeely detached.
+   - After few-shot fine-tuning, the weights for a target class is set to the average weights predicted by the meta-model taking the k-shot samples as input. The meta-model can be completely detached.
 5. Experiment results:
    - The proposed model is able to outperform YOLOv2 baselines on various datasets.
    - The proposed model requires significantly less iterations to converge compared to the baselines.
