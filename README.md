@@ -2,6 +2,7 @@ Inspired by [Denny Britz](https://github.com/dennybritz/deeplearning-papernotes)
 
 Week 5, (06/27/2019):
 - [Prototypical Networks for Few-shot Learning](FewshotLearning/prototypical-net.md) \[[arxiv](https://arxiv.org/abs/1703.05175)\]\[[code](https://github.com/jakesnell/prototypical-networks)\]
+- [Few-shot Object Detection via Feature Reweighting](FewshotLearning/fewshot-obj-det-feature-reweight.md) \[[arxiv](https://arxiv.org/abs/1812.01866)\]
 
 Week 4, (06/25/2018):
 - [Peephole: Predicting Network Performance Before Training](peephole.md) \[[arxiv](https://arxiv.org/abs/1712.03351)\]
