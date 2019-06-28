@@ -1,7 +1,7 @@
 Inspired by [Denny Britz](https://github.com/dennybritz/deeplearning-papernotes), I've decided to start keeping track of papers I'm reading for documentation purposes and as a way to force myself to read more. Since it is a journal, these will be ordered by the time I read them.
 
 Week 5, (06/27/2019):
-- [Prototypical Networks for Few-shot Learning](prototypical-net.md) \[[arxiv](https://arxiv.org/abs/1703.05175)\]\[[code](https://github.com/jakesnell/prototypical-networks)\]
+- [Prototypical Networks for Few-shot Learning](FewshotLearning/prototypical-net.md) \[[arxiv](https://arxiv.org/abs/1703.05175)\]\[[code](https://github.com/jakesnell/prototypical-networks)\]
 
 Week 4, (06/25/2018):
 - [Peephole: Predicting Network Performance Before Training](peephole.md) \[[arxiv](https://arxiv.org/abs/1712.03351)\]
