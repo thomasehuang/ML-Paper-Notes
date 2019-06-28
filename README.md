@@ -1,13 +1,34 @@
 Inspired by [Denny Britz](https://github.com/dennybritz/deeplearning-papernotes), I've decided to start keeping track of papers I'm reading for documentation purposes and as a way to force myself to read more. Since it is a journal, these will be ordered by the time I read them.
 
-Week 5, (06/27/2019):
+Week 10, (06/27/2019):
 - [Prototypical Networks for Few-shot Learning](FewshotLearning/prototypical-net.md) \[[arxiv](https://arxiv.org/abs/1703.05175)\]\[[code](https://github.com/jakesnell/prototypical-networks)\]
 - [Few-shot Object Detection via Feature Reweighting](FewshotLearning/fewshot-obj-det-feature-reweight.md) \[[arxiv](https://arxiv.org/abs/1812.01866)\]
+
+Week 9, (07/30/2018):
+- [Learning to Segment via Cut-and-Paste](cut_and_paste.md) \[[arxiv](https://arxiv.org/abs/1803.06414)\]
+
+Week 8, (07/23/2018):
+- _Break_
+
+Week 7, (07/16/2018):
+- [Semi-parametric Image Synthesis](SIMS.md) [CVPR 2018]\[[arxiv](https://arxiv.org/abs/1804.10992)\]\[[code](https://github.com/xjqicuhk/SIMS)\]
+- [Generative Image Inpainting with Contextual Attention](contextual_attention.md) [CVPR 2018]\[[arxiv](https://arxiv.org/abs/1801.07892)\]\[[code](https://github.com/JiahuiYu/generative_inpainting)\]\[[demo](http://jiahuiyu.com/deepfill/)\]
+- [Neural Discrete Representation Learning](VQ-VAE.md) [NIPS 2017]\[[arxiv](https://arxiv.org/abs/1711.00937)\]\[[samples](https://avdnoord.github.io/homepage/vqvae/)\]
+- [Pedestrian-Synthesis-GAN: Generating Pedestrian Data in Real Scene and Beyond](PS-GAN.md) \[[arxiv](https://arxiv.org/abs/1804.02047)\]\[[code](https://github.com/yueruchen/Pedestrian-Synthesis-GAN)\]
+
+Week 6, (07/09/2018):
+- [LayoutNet: Reconstructing the 3D Room Layout from a Single RGB Image](LayoutNet.md) [CVPR 2018]\[[arxiv](https://arxiv.org/abs/1803.08999)\]\[[code](https://github.com/zouchuhang/LayoutNet)\]
+- [Training Deep Networks with Synthetic Data: Bridging the Reality Gap by Domain Randomization](synthetic_DR.md) [CVPR 2018]\[[arxiv](https://arxiv.org/abs/1804.06516)\]
+
+Week 5, (07/02/2018):
+- _Break_
 
 Week 4, (06/25/2018):
 - [Peephole: Predicting Network Performance Before Training](peephole.md) \[[arxiv](https://arxiv.org/abs/1712.03351)\]
 - [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](CycleGAN.md) [ICCV 2017]\[[arxiv](https://arxiv.org/abs/1703.10593)\]\[[code](https://github.com/junyanz/CycleGAN)\]\[[website](https://junyanz.github.io/CycleGAN/)\]
 - [Tacotron: Towards End-to-End Speech Synthesis](SpeechSynthesis/Tacotron.md) [Interspeech 2017]\[[arxiv](https://arxiv.org/abs/1703.10135)\]\[[samples](https://google.github.io/tacotron)\]
+- [Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions](SpeechSynthesis/Tacotron2.md) [ICASSP 2018]\[[arxiv](https://arxiv.org/abs/1712.05884)\]\[[blog](https://ai.googleblog.com/2017/12/tacotron-2-generating-human-like-speech.html)\]\[[samples](https://google.github.io/tacotron/)\]
+- [WESPE: Weakly Supervised Photo Enhancer for Digital Cameras](WESPE.md) \[[arxiv](https://arxiv.org/abs/1709.01118)\]\[[website](http://www.vision.ee.ethz.ch/~ihnatova/wespe.html)\]\[[demo](http://phancer.com/)\]
 
 Week 3, (06/18/2018):
 - [Decoupled Neural Interfaces using Synthetic Gradients](synthetic-gradients.md) \[[arxiv](https://arxiv.org/abs/1608.05343)\]\[[blog](https://deepmind.com/blog/decoupled-neural-networks-using-synthetic-gradients/)\]
